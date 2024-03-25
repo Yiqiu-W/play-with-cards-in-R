@@ -1,7 +1,3 @@
-# work by Nicoleta Bobescu and Yiqiu Wang
-# Yiqiu Wang: first draft + self-check + revision
-
-
 # create two vectors for the card labels and suits
 labels <- c(2:10,"J","Q","K","A")
 suits  <- c("clubs","spades","hearts","diamonds")
